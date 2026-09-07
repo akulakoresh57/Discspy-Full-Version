@@ -229,3 +229,6 @@ This repository serves as the official landing page for DiscSpy. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DiscSpy today!**
+
+---
+**Last updated:** 2026-09-07 16:51:08 UTC
